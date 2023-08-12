@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeepkumarputi&label=Profile%20views&color=0e75b6&style=flat" alt="pradeepkumarputi" /> </p>
 
 
-- 🔭 I’m student currently learning **Full stack web development**
+- 🔭 I’m a student currently learning **Full stack web development**
 
 - 🌱 I’m pursuing **Master of Computer Application**
 
